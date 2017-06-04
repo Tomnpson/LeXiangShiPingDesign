@@ -78,7 +78,9 @@
 <img alt="设计流程" src="https://github.com/Tomnpson/LeXiangShiPin/raw/master/Screenshots/4.png">
 </p>
 
+
 ## 绘制故事地图
+
 
 用户可能通过什么途径参与本产品？用户参与进来关键路径有哪些？具体会在什么场景下参与到本产品中来？参与进来之后呢？我希望这张图能表达出来这个意思。这张图应该足够简单明了，包括核心参与流程。
 
